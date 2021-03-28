@@ -1,2 +1,2 @@
 # ModelBox
-A collection of all models I ever coded from scratch
+A collection of all models I ever used or coded from scratch
